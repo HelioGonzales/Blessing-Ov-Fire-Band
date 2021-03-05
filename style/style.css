@@ -1,0 +1,24 @@
+.backi-color {
+    background-color: #000;
+}
+
+.section-style {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.disco-size {
+    height: 70vh;
+    width: 100vw;
+}
+
+.icon-size {
+    font-size: 2rem;
+}
+
+.main-image{
+    margin-top: 5rem;
+    height: 100vh;
+    width: 100%;
+    object-fit: cover;
+}
